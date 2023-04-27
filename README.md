@@ -22,7 +22,7 @@ The AI Summarizer is a web application that uses advanced natural language proce
 
 ## Getting Started
 
-To get started with the AI Summarizer, simply visit our website at [insert website URL]. Once you're on the site, you can enter any body of text you want to summarize and select the summarization options that best fit your needs. The AI Summarizer will then generate a concise summary of the text that you can save or share as needed.
+To get started with the AI Summarizer, simply visit our website at 'https://summarizerIo.netlify.app'. Once you're on the site, you can enter any body of text you want to summarize and select the summarization options that best fit your needs. The AI Summarizer will then generate a concise summary of the text that you can save or share as needed.
 
 ## Contributing
 
@@ -30,8 +30,4 @@ The AI Summarizer is an open-source project, which means that anyone can contrib
 
 ## Support
 
-If you run into any issues with the AI Summarizer, please don't hesitate to reach out to our support team at [insert email address or contact form]. We're committed to making the AI Summarizer the best it can be, and we're always happy to hear from our users.
-
-## License
-
-The AI Summarizer is licensed under the [insert license type], which means that you are free to use, modify, and distribute the software as you see fit. We only ask that you give credit to the original authors and contributors if you choose to redistribute the software.
+If you run into any issues with the AI Summarizer, please don't hesitate to reach out to our support team at "balajibachu2002@gmail.com". We're committed to making the AI Summarizer the best it can be, and we're always happy to hear from our users.
