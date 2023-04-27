@@ -1,7 +1,11 @@
 # Summarizer.io
 
-Sure! Here's a sample README.md file content for an AI Summarizer webpage:
+## Home Page View:
+
 ![summarizer home page](https://user-images.githubusercontent.com/100010840/234918943-0a9d3f85-b12e-4e92-b063-a3b49b541a35.PNG)
+
+## Generated Article Summary:
+
 ![summary generated](https://user-images.githubusercontent.com/100010840/234918974-60804363-5834-4da5-9c9d-c203fbe8859b.PNG)
 
 # AI Summarizer
